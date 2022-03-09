@@ -9,4 +9,5 @@ def main():
 
     util.protontricks('msxml3')
     util.protontricks('corefonts')
-
+    util.disable_dxvk()
+    
